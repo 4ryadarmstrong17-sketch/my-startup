@@ -1,3 +1,4 @@
 FITUR MY STARTUP
 1. Membuat fitur auth dan authorization
 2. Membuat fitur auth dengan OAuth dan JWT
+3. Membuat fitur cart seperti menambahkan barang, menambahkan stok, dst.
